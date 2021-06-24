@@ -1,0 +1,1 @@
+- NO pueden haber operaciones en las clases en el modelo conceptual
